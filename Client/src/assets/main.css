@@ -1,0 +1,49 @@
+.cafe-bg{
+  background-color: #e0d9d1
+}
+
+.cafe-main-1{
+  background-color: #ded8d1
+}
+
+.cafe-secondary-1{
+  background-color: #a2b4a1
+}
+
+.cafe-secondary-2{
+  background-color: #748073
+}
+
+.cafe-button-1{
+  background-color: #748073 !important;
+
+}
+
+.cafe-button-2{
+  background-color: #ccbdab !important;
+}
+
+.bg-white{
+  background-color: white;
+}
+
+.img-round{
+  border-radius: 50%;
+}
+
+.img-round-2{
+  border-radius: 10%;
+}
+
+.fade-in{
+  animation: fadeIn 2s;
+}
+
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
