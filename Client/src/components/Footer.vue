@@ -58,7 +58,7 @@
     <div class="d-flex flex-column flex-sm-row justify-content-center py-4 my-4 border-top">
       <ul class="list-unstyled d-flex">
             <li class="ms-3">
-              <h3><a class="text-body-secondary" href="https://www.instagram.com/"
+              <h3><a class="text-body-secondary" href="https://www.instagram.com/morningnightcafe"
                 ><i class="bi bi-instagram"></i
               ></a></h3>
             </li>
